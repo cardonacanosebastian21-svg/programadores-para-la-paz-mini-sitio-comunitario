@@ -1,8 +1,8 @@
 Pruebas de middleware simple – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 20 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Importante:
 Este middleware es pedagógico. No representa seguridad real de producción.
@@ -15,10 +15,10 @@ Abrir el mini-sitio y probar la revisión editorial protegida sin iniciar sesió
 Resultado esperado:
 El sistema debe negar el acceso o indicar que falta token.
 
-Resultado observado:
+Resultado observado: El sistema debe negar el acceso o indicar que falta token.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Prueba 2: Login pedagógico
 
@@ -31,10 +31,10 @@ demo
 Resultado esperado:
 El sistema responde login pedagógico correcto y guarda token de demostración.
 
-Resultado observado:
+Resultado observado: El sistema responde login pedagógico correcto y guarda token de demostración.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Prueba 3: Ruta protegida después del login
 
@@ -44,25 +44,25 @@ Probar revisión editorial protegida después del login.
 Resultado esperado:
 El sistema permite ver la respuesta de revisión editorial pedagógica.
 
-Resultado observado:
+Resultado observado: El sistema permite ver la respuesta de revisión editorial pedagógica.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Prueba 4: Token incorrecto
 
 Explica qué debería pasar si el token no coincide con el esperado.
 
-Respuesta:
+Respuesta: el middleware de seguridad simple debe interceptar la solicitud y bloquear el acceso.
 
 5. ¿Qué hace el middleware simple?
 
-Respuesta:
+Respuesta: Intercepta las solicitudes HTTP dirigidas a las rutas protegidas para inspeccionar las cabeceras (headers). Su función es evaluar si el token enviado por el cliente coincide exactamente con el token estático definido en el servidor. Si el token es correcto, el middleware otorga "luz verde" invocando la función next() para dar paso a la ruta; si el token no coincide o está ausente, detiene la petición de inmediato emitiendo una respuesta de error con código HTTP 401 (No autorizado).
 
 6. ¿Por qué este middleware no debe confundirse con seguridad real?
 
-Respuesta:
+Respuesta: Porque se trata de un ejercicio con fines meramente didácticos y demostrativos. En un entorno de producción real, un middleware de seguridad no evalúa contraseñas o tokens fijos grabados directamente en el código (hardcoded), ya que cualquiera con acceso al repositorio podría verlos. La seguridad real requiere la implementación de protocolos robustos como JSON Web Tokens (JWT) cifrados, fechas de expiración, validación dinámica contra bases de datos seguras y el uso de variables de entorno (.env) ocultas para proteger las credenciales del sistema.
 
 7. ¿Qué aprendiste sobre rutas públicas y rutas protegidas?
 
-Respuesta:
+Respuesta: Aprendí que el backend de una arquitectura web debe segmentarse según los privilegios de acceso para cuidar la integridad comunitaria. Las rutas públicas (como GET /api/propuestas) son de libre acceso para que cualquier ciudadano de la comunidad pueda consultar y transparentar la información sin trabas. Por otro lado, las rutas protegidas (como los páneles de administración o edición) resguardan datos sensibles o acciones críticas, exigiendo una autenticación previa a través de middlewares para asegurar la trazabilidad, evitar la manipulación externa y mitigar riesgos informáticos en la plataforma.

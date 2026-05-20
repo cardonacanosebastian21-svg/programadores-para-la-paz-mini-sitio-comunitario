@@ -1,8 +1,8 @@
 Evidencia dual de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 20 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 La evidencia dual de Semana 5 está compuesta por:
 
@@ -10,60 +10,60 @@ La evidencia dual de Semana 5 está compuesta por:
 
 Describe brevemente qué hace el mini-sitio:
 
-Respuesta:
+Respuesta: Es una plataforma web comunitaria interactiva (frontend) conectada a un servidor Node.js/Express (backend). Permite a los ciudadanos visualizar en tiempo real las propuestas e iniciativas locales registradas por sus vecinos mediante peticiones asíncronas, facilitando un canal directo de participación ciudadana y gobernanza digital.
 
-Rutas probadas:
+Rutas probadas: 
 
-Respuesta:
+Respuesta: Se validaron con éxito las rutas públicas GET /api/propuestas (para consultar y listar las iniciativas en la interfaz) y POST /api/propuestas (para enviar y registrar nuevos formularios de propuestas de forma segura).
 
 2. README versionado en Git
 
 Explica qué información contiene el README:
 
-Respuesta:
+Respuesta: Contiene la documentación técnica y pedagógica esencial del proyecto: su propósito social, los requisitos del sistema, la guía paso a paso para clonar el repositorio e instalar dependencias con npm install, la explicación de los endpoints de la API, el funcionamiento didáctico del middleware de protección y las pautas del flujo de trabajo colaborativo en Git utilizando ramas personales.
 
 3. Calendario editorial de dos semanas
 
 Describe el tema general del calendario editorial:
 
-Respuesta:
+Respuesta:El eje temático central gira en torno a la "Apropiación comunitaria de herramientas digitales para la cultura de paz", promoviendo la transparencia, la convivencia digital asertiva y la visibilización de los liderazgos locales en el territorio. 
 
 Número de piezas:
 
-Respuesta:
+Respuesta: 6 piezas más una que yo ingresé
 
 4. Difusión responsable
 
 ¿Cómo garantiza el proyecto una difusión responsable?
 
-Respuesta:
+Respuesta: Se garantiza mediante el uso de un lenguaje neutral, incluyente, asertivo y estrictamente no estigmatizante. El diseño de los contenidos evita juicios de valor, alarmismos, etiquetas políticas o señalamientos personales, asegurando que la información construya un entorno seguro y constructivo para el tejido social.
 
 5. Revisión de fuentes
 
 ¿Cómo se revisa o menciona la fuente de la información?
 
-Respuesta:
+Respuesta: Antes de programar cualquier publicación en el calendario editorial, se somete el dato a una verificación estricta con las actas de las mesas de trabajo, comunicados oficiales de la Universidad o datos directos del territorio. En la pieza gráfica o textual se incluye explícitamente el origen del dato (ej. "Fuente: Comité de Veeduría Ciudadana"), lo cual actúa como un filtro directo para la prevención de la desinformación.
 
 6. Consistencia comunicativa
 
 ¿Cómo se mantiene coherencia entre mensajes y piezas?
 
-Respuesta:
+Respuesta: Se logra mediante una estructura de diseño unificada, el uso de una paleta de colores institucional constante y un manual de estilo compartido. Esto asegura que, aunque los temas cambien (convocatorias, rendición de cuentas, talleres), la voz, los valores del proyecto de paz y la identidad de la plataforma comunitaria sean siempre reconocibles para los usuarios, fortaleciendo la confianza comunitaria.
 
 7. Moderación editorial básica
 
 ¿Qué criterios se deben revisar antes de publicar?
 
-Respuesta:
+Respuesta: Se aplican reglas editoriales claras antes de dar luz verde a cualquier publicación: veracidad y contraste de la fuente, respeto a los derechos humanos y protección de datos personales (Habeas Data), ausencia de sesgos o discursos de odio, claridad gramatical bajo principios de lenguaje claro, y alineación estricta con el propósito de generar convivencia armónica.
 
 8. GitHub y trazabilidad
 
 ¿Qué commits o avances registraste durante la semana?
 
-Respuesta:
+Respuesta: Se registró la sincronización de la rama principal externa (upstream main), la resolución de conflictos técnicos en archivos base (README.md, server.js, public/app.js y package-lock.json) usando la estrategia de preservación de archivos del proyecto único, y el respaldo final del entorno libre de errores mediante el commit y push oficial en la rama personal sebastian_cardona_cano.
 
 9. Conclusión personal
 
 ¿Por qué este proyecto es más completo que un ejercicio técnico aislado?
 
-Respuesta:
+Respuesta: Porque trasciende la simple escritura de código o la configuración de un servidor local. Este proyecto integra el rigor del desarrollo de software (rutas, middlewares, control de versiones) con una responsabilidad ética y social directa; demuestra que la tecnología adquiere su verdadero valor cuando se diseña con un propósito comunitario claro, convirtiéndose en un canal seguro, transparente y veraz que promueve la participación activa de la ciudadanía y aporta a la construcción de una sólida cultura de paz.

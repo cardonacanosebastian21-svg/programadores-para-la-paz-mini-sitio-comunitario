@@ -1,8 +1,8 @@
 Checklist final del calendario editorial – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 20 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,58 +10,58 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El calendario tiene dos semanas de planificación?
 
-Respuesta:
+Respuesta: SÍ. Está diseñado con una proyección quincenal mínima, lo que permite anticipar los contenidos, organizar los flujos de validación con antelación y evitar la improvisación en los canales comunitarios.
 
 2. Seis piezas
 
 ¿El calendario tiene al menos seis piezas?
 
-Respuesta:
+Respuesta: SÍ. Incluye una cuota mínima de seis piezas de contenido distribuidas a lo largo del ciclo de planificación, garantizando una presencia activa, constante y balanceada en la plataforma digital.
 
 3. Fecha o momento de publicación
 
 ¿Cada pieza tiene fecha, día o momento definido?
 
-Respuesta:
+Respuesta: SÍ. Cada elemento del cronograma cuenta con una casilla específica para el día y la hora de salida, asegurando el orden cronológico y facilitando el seguimiento interno del equipo.
 
 4. Tema
 
 ¿Cada pieza tiene un tema claro?
 
-Respuesta:
+Respuesta: SÍ. Define un eje temático central alineado con las necesidades del territorio (como pedagogía de paz, convocatorias o metodologías de participación), evitando la dispersión de los mensajes.
 
 5. Público objetivo
 
 ¿Cada pieza define público objetivo?
 
-Respuesta:
+Respuesta: SÍ. Segmenta claramente a quién va dirigido el mensaje (jóvenes, líderes de juntas de acción comunal, comunidad general), adaptando el tono y los formatos según los intereses de cada grupo.
 
 6. Propósito
 
 ¿Cada pieza tiene propósito comunitario?
 
-Respuesta:
+Respuesta: SÍ. Cada contenido está orientado a un fin social claro: informar de manera transparente, convocar a asambleas, educar en convivencia digital o incentivar la co-creación de propuestas ciudadanas.
 
 7. Responsable
 
 ¿Cada pieza define responsable?
 
-Respuesta:
+Respuesta: SÍ. Asigna un rol encargado de la redacción, el diseño o la publicación de la pieza, asegurando la trazabilidad interna y el cumplimiento de las tareas del equipo de trabajo.
 
 8. Revisión de fuentes
 
 ¿Cada pieza incluye fuente o criterio de verificación?
 
-Respuesta:
+Respuesta: SÍ. Registra de dónde proviene la información o bajo qué criterio técnico o comunitario fue validada, funcionando como un filtro indispensable para la prevención de la desinformación.
 
 9. Consistencia comunicativa
 
 ¿Las piezas mantienen coherencia entre sí?
 
-Respuesta:
+Respuesta: SÍ. Siguen una misma línea gráfica, de identidad y de valores institucionales, construyendo una narrativa sólida que fortalece la confianza comunitaria en la plataforma.
 
 10. Lenguaje responsable y no estigmatizante
 
 ¿Las piezas evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
 
-Respuesta:
+Respuesta: SÍ. Se rige bajo estrictas reglas editoriales de moderación asertiva, utilizando un vocabulario constructivo, dignificante y neutral que fomenta una cultura de paz y previene la polarización en los entornos virtuales.

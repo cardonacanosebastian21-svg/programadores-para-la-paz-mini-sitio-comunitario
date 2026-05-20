@@ -43,3 +43,11 @@ En tu respuesta menciona al menos ocho de estas ideas:
 - cultura de paz
 
 Respuesta:
+Desde las primeras clases, mi metodología evolucionó drásticamente al integrar el control de versiones con GitHub, 
+donde pasé de trabajar en archivos aislados a gestionar un repositorio estructurado. Aprendí a proteger la rama main 
+y a desarrollar de forma segura en mi rama personal, usando comandos clave como git pull y git merge para sincronizar 
+el código y resolver conflictos complejos de forma ordenada antes de hacer cada commit y push final. En el aspecto 
+técnico, la transición de diseñar interfaces estáticas con HTML y CSS a programar lógica asíncrona con JavaScript, 
+Node.js y Express me permitió construir una API real que procesa datos en formato JSON. Además, la experiencia adquirida 
+con la manipulación del DOM mediante funciones async / await y peticiones fetch transformó el proyecto en un canal dinámico 
+para incentivar la participación ciudadana y aportar de manera directa a una cultura de paz en el territorio.
