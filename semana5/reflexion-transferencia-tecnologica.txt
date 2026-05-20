@@ -1,8 +1,8 @@
 Reflexión sobre transferencia tecnológica – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -25,3 +25,11 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+La documentación como transparencia en un proyecto social garantiza que cualquier ciudadano pueda 
+comprender y auditar el código a través de un README estructurado. Esto promueve la transferencia 
+tecnológica, permitiendo que nuevos miembros mantengan el sistema sin depender de un único 
+desarrollador gracias a la claridad operativa de los manuales. Asimismo, una correcta gestión de 
+la seguridad basada en la no exposición de credenciales ni datos personales protege la privacidad 
+de los vecinos en entornos virtuales. Por último, mantener una estricta trazabilidad en Git mediante 
+commits claros demuestra honestidad en el proceso, consolidando la confianza comunitaria y el derecho 
+colectivo al acceso libre a la información.

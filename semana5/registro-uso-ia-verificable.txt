@@ -1,8 +1,8 @@
 Registro de uso verificable de IA – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Importante:
 La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
@@ -18,32 +18,32 @@ No debes compartir con IA:
 1. ¿Para qué usaste IA en esta clase?
 Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
 
-Respuesta:
+Respuesta: Para aclarar un error recurrente de conexión en la terminal de Git (Could not resolve host: github.com) y organizar los pasos de ejecución para levantar el servidor local del proyecto.
 
 2. Escribe la pregunta que hiciste a la IA:
 
-Respuesta:
+Respuesta: "ayudame" (enviando una captura de pantalla de la consola de comandos con los errores del proyecto).
 
 3. Resume la respuesta recibida:
 
-Respuesta:
+Respuesta: La IA identificó que el error se debía a la falta de conexión a internet o problemas para resolver el dominio de GitHub, explicó que se introdujeron caracteres extraños en el comando (io>), y recomendó verificar la red antes de volver a ejecutar git pull o usar npm run sitio para levantar el entorno local.
 
 4. ¿Qué parte de la respuesta aplicaste?
 
-Respuesta:
+Respuesta: La revisión de la conexión a internet, la limpieza de la línea de comandos para corregir la sintaxis de Git, y la ejecución del comando npm run sitio para arrancar el mini-sitio comunitario en el navegador.
 
 5. ¿Qué parte decidiste no aplicar?
 
-Respuesta:
+Respuesta: No apliqué comandos avanzados de reconfiguración de DNS o proxies de Git, ya que la prioridad era validar primero el estado de la red y encender el servidor local.
 
 6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
 
-Respuesta:
+Respuesta: Lo verifiqué directamente en la terminal al limpiar el comando erróneo, presionar Enter en npm run sitio y comprobar que el backend iniciaba correctamente sin congelar la consola.
 
 7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
 
-Respuesta:
+Respuesta: No, la captura de pantalla solo mostraba rutas genéricas de carpetas locales de desarrollo (Modulo 2\dia6...), archivos públicos de la estructura del curso y comandos estándar de la terminal.
 
 8. ¿Qué aprendiste sobre uso responsable de IA?
 
-Respuesta:
+Respuesta: Aprendí que la IA es excelente para leer capturas de pantalla con errores de código y traducirlos a un lenguaje sencillo, pero que siempre debo verificar la red y los archivos de mi entorno real antes de asumir que el código base está mal diseñado.
