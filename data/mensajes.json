@@ -31,6 +31,17 @@
       "llamadoAccion": "Publica avisos con información completa.",
       "fuente": "Protocolo editorial del curso",
       "revisionEditorial": "aprobada"
+    },
+    {
+      "id": 4,
+      "titulo": "Tus sueños rurales en red",
+      "mensaje": "El campo no es el límite, es el punto de partida. Usa la tecnología para conectar el talento de tu vereda con el mundo entero: tus ideas tienen alcance global.",
+      "categoria": "ascensor-social-digital",
+      "audiencia": "jóvenes rurales",
+      "tono": "inspirador y aspiracional",
+      "llamadoAccion": "Empieza a construir tu proyecto digital hoy mismo.",
+      "fuente": "Dirección de Transformación Digital y Marca",
+      "revisionEditorial": "aprobada"
     }
   ]
   

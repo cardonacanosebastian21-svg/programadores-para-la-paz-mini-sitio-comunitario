@@ -1,88 +1,87 @@
 Calendario editorial de 2 semanas – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Tema general de la campaña comunitaria:
 
-Respuesta:
+Respuesta: Proyecto único de Semana 5 para difusión responsable, calendario editorial, documentación y transferencia tecnológica.
 
 Pieza 1
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
-¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Semana: 1
+Día: Lunes
+Fecha: Pendiente por definir
+Tema: Verificación de información
+Tipo de pieza: Aviso (Aviso de verificación)
+Canal: Moodle o red comunitaria
+Público objetivo: Comunidad general
+Propósito: Prevenir la circulación de información no verificada.
+Responsable: Equipo de comunicaciones
+Mensaje: "Antes de compartir cualquier dato o noticia en nuestras redes, asegúrate de que provenga de canales oficiales. Cuidar la veracidad de lo que difundimos protege la confianza de nuestra comunidad."
+Tono: Preventivo
+Llamado a la acción: Verifica la fuente antes de compartir.
+Fuente o criterio de verificación: Canal institucional comunitario
+Observaciones editoriales: Confirmar fuente, fecha y responsable antes de publicar.
+¿Usa lenguaje responsable y no estigmatizante? 
+Respuesta: Sí. El mensaje se centra en el cuidado colectivo de la información sin culpar, señalar ni avergonzar a los usuarios.
 
 Pieza 2
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
-¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Semana: 1
+Día: Miércoles
+Fecha: Pendiente por definir
+Tema: Convivencia digital
+Tipo de pieza: Mensaje pedagógico (Mensaje de convivencia digital)
+Canal: Grupo comunitario
+Público objetivo: Jóvenes participantes
+Propósito: Promover participación respetuosa en espacios digitales.
+Responsable: Equipo de comunicaciones
+Mensaje: "Las redes y grupos comunitarios son espacios para construir juntos. Expresa tus ideas libremente, escucha con apertura y mantén siempre el respeto por la opinión de los demás."
+Tono: Pedagógico
+Llamado a la acción: Participa con respeto y evita ataques personales.
+Fuente o criterio de verificación: Equipo de comunicaciones
+Observaciones editoriales: Evitar lenguaje acusatorio o estigmatizante.
+¿Usa lenguaje responsable y no estigmatizante? 
+Respuesta: Sí. Utiliza una redacción propositiva y asertiva que invita a la construcción conjunta en lugar de prohibir o sancionar desde el prejuicio.
 
 Pieza 3
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
-¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Semana: 1
+Día: Viernes
+Fecha: Pendiente por definir
+Tema: Participación ciudadana
+Tipo de pieza: Convocatoria (Convocatoria a propuestas)
+Canal: Mini-sitio comunitario
+Público objetivo: Comunidad general
+Propósito: Invitar a la comunidad a enviar propuestas claras.
+Responsable: Docentes de comunicaciones
+Mensaje: "¡Tu voz transforma el territorio! Queremos conocer tus iniciativas para el desarrollo local. Envía tu propuesta comunitaria a través del enlace oficial y sé parte del cambio."
+Tono: Convocante
+Llamado a la acción: Envía una propuesta clara y con propósito comunitario.
+Fuente o criterio de verificación: Formulario comunitario
+Observaciones editoriales: Aclarar que las propuestas tendrán revisión editorial.
+¿Usa lenguaje responsable y no estigmatizante? 
+Respuesta: Sí. Es un mensaje inclusivo, abierto a toda la población y enfocado en el empoderamiento social y el beneficio común.
 
 Pieza 4
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
-¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Día: Lunes
+Fecha: Pendiente por definir
+Tema: Seguimiento comunitario
+Tipo de pieza: Resumen (Resumen de propuestas recibidas)
+Canal: Mini-sitio comunitario
+Público objetivo: Líderes comunitarios
+Propósito: Mostrar avances sin exponer datos sensibles.
+Responsable: Equipo técnico y comunicaciones
+Mensaje: "Gracias a la participación de todos, ya contamos con las primeras iniciativas agrupadas por categorías. El proceso avanza con transparencia y respetando la privacidad de cada participante."
+Tono: Informativo
+Llamado a la acción: Revisa las categorías más frecuentes.
+Fuente o criterio de verificación: API comunitaria
+Observaciones editoriales: No publicar datos personales innecesarios.
+¿Usa lenguaje responsable y no estigmatizante? 
+Respuesta: Sí. Al priorizar el anonimato y la protección de datos sensibles, se garantiza un entorno seguro y libre de señalamientos para los proponentes.
 
 Pieza 5
 
@@ -105,19 +104,19 @@ Respuesta:
 
 Pieza 6
 
-Semana:
-Día:
-Fecha:
-Tema:
-Tipo de pieza:
-Canal:
-Público objetivo:
-Propósito:
-Responsable:
-Mensaje:
-Tono:
-Llamado a la acción:
-Fuente o criterio de verificación:
-Observaciones editoriales:
-¿Usa lenguaje responsable y no estigmatizante?
-Respuesta:
+Semana: 2
+Día: Miércoles
+Fecha: Pendiente por definir
+Tema: Lenguaje responsable
+Tipo de pieza: Recordatorio (Recordatorio de lenguaje responsable)
+Canal: Red comunitaria
+Público objetivo: Jóvenes participantes
+Propósito: Reforzar criterios de lenguaje responsable y no estigmatizante.
+Responsable: Docentes de comunicaciones
+Mensaje: "Las palabras construyen realidades. En lugar de generalizar o usar etiquetas que aíslen a otros, elijamos expresiones que integren y reconozcan la diversidad de nuestra comunidad. ¡Usa palabras que sumen!"
+Tono: Pedagógico
+Llamado a la acción: Evita mensajes ofensivos o estigmatizantes.
+Fuente o criterio de verificación: Reglas editoriales mínimas
+Observaciones editoriales: Incluir ejemplo de redacción adecuada.
+¿Usa lenguaje responsable y no estigmatizante? 
+Respuesta: Sí. El texto educa activamente sobre la importancia de la empatía verbal y promueve de forma directa la eliminación de términos discriminatorios.

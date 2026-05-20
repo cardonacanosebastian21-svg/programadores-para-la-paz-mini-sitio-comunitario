@@ -100,6 +100,23 @@
       "fuente": "Equipo de seguimiento",
       "responsable": "Equipo docente",
       "observaciones": "Revisar consistencia con piezas anteriores."
+    },
+    {
+      "id": 7,
+      "semana": 3,
+      "dia": "Lunes",
+      "fecha": "Pendiente por definir",
+      "tema": "Sueños y proyectos rurales en red",
+      "tipoPieza": "Manifiesto Inspiracional",
+      "pieza": "Lanzamiento: Hackeando el destino desde la vereda",
+      "canal": "Grupo comunitario y redes (TikTok/WhatsApp)",
+      "publicoObjetivo": "jóvenes rurales",
+      "proposito": "Incentivar a los jóvenes a usar herramientas digitales para visibilizar el talento de sus territorios.",
+      "tono": "inspirador y aspiracional",
+      "llamadoAccion": "Empieza a construir tu proyecto digital y conecta tu vereda con el mundo.",
+      "fuente": "Dirección de Transformación Digital y Marca",
+      "responsable": "Equipo técnico y creadores de contenido",
+      "observaciones": "Acompañar con un formato transmedia (video corto o audio tipo pódcast rural) que use referentes de éxito locales."
     }
   ]
   

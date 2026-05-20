@@ -1,8 +1,8 @@
 Checklist de difusión responsable – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,70 +10,70 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El mensaje aporta información útil para la comunidad?
 
-Respuesta:
+Respuesta: SÍ. Cada publicación entrega pautas de valor. Enseñan a verificar fuentes, propiciar espacios seguros y participar constructivamente en procesos del territorio.
 
 2. Planificación del calendario editorial
 
 ¿La publicación está organizada por fecha, canal, responsable y propósito?
 
-Respuesta:
+Respuesta: SÍ. Las fichas técnicas segmentan meticulosamente cada uno de estos parámetros estructurales. Se asignan canales idóneos, roles y objetivos claros para mitigar la improvisación.
 
 3. Calendario editorial
 
 ¿La pieza está ubicada dentro de una secuencia de publicaciones de dos semanas?
 
-Respuesta:
+Respuesta: SÍ. Se traza una secuencia lógica distribuida estrictamente a lo largo de 14 días corridos. Inicia el lunes de la Semana 1 y concluye el viernes de la Semana 2.
 
 4. Revisión de fuentes
 
 ¿El mensaje indica fuente o criterio de verificación cuando hace afirmaciones?
 
-Respuesta:
+Respuesta: SÍ. Los campos asignados mapean el origen de los datos de soporte. Validan la información mediante la API comunitaria, los formularios del proceso o los lineamientos editoriales internos.
 
 5. Consistencia comunicativa
 
 ¿El mensaje mantiene coherencia con el propósito general de la campaña?
 
-Respuesta:
+Respuesta: SÍ. Las seis piezas se articulan de manera orgánica hacia la transferencia tecnológica y la difusión responsable. Cumplen rigurosamente con los objetivos estratégicos de la campaña.
 
 6. Consistencia editorial
 
 ¿El tono, el lenguaje y el llamado a la acción son coherentes con las demás piezas?
 
-Respuesta:
+Respuesta: SÍ. Las piezas interactúan de forma armónica usando variaciones controladas (informativo, preventivo y pedagógico). Los textos evitan contradicciones conceptuales y mantienen una misma línea de respeto.
 
 7. Moderación editorial básica
 
 ¿El mensaje debería revisarse antes de publicarse?
 
-Respuesta:
+Respuesta: SÍ. Las notas de control editorial exigen explícitamente validar datos personales y confirmar fechas exactas. Esto previene fugas de información sensible y errores logísticos antes del lanzamiento.
 
 8. Público objetivo
 
 ¿Está claro a quién va dirigido?
 
-Respuesta:
+Respuesta: SÍ. Se segmenta con precisión a los destinatarios para cada canal. Se distingue claramente cuándo hablarle a la comunidad general, a los jóvenes participantes o a los líderes comunitarios.
 
 9. Tono
 
 ¿El tono es adecuado para la audiencia?
 
-Respuesta:
+Respuesta: SÍ. Adopta posturas empáticas, pedagógicas y de prevención oportuna. Se comunica de manera horizontal y clara, evitando tecnicismos innecesarios o autoritarismos con la población joven.
 
 10. Llamado a la acción
 
 ¿La persona que lee sabe qué hacer después?
 
-Respuesta:
+Respuesta: SÍ. Las directrices cierran con acciones explícitas, imperativas y medibles. Instruyen claramente al usuario a verificar fuentes, revisar categorías o enviar propuestas puntuales.
 
 11. Lenguaje responsable y no estigmatizante
 
 ¿El mensaje evita insultos, generalizaciones, alarmismo, exclusión o señalamientos sin evidencia?
 
-Respuesta:
+Respuesta: SÍ. Los textos proponen conductas colectivas constructivas y didácticas. Se elimina de raíz cualquier matiz punitivo, acusatorio, discriminatorio o alarmista que afecte a la cohesión social.
 
 12. Minimización de datos
 
 ¿El mensaje evita publicar datos personales innecesarios?
 
-Respuesta:
+Respuesta: SÍ. El plan prioriza la seguridad mediante la anonimización de las iniciativas recibidas. Muestra los balances a través de agrupaciones por categorías generales y protege la identidad de la comunidad.

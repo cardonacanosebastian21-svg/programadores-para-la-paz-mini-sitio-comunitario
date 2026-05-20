@@ -1,8 +1,8 @@
 Reflexión sobre mini-sitio comunitario – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -31,3 +31,12 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+Un proyecto único en GitHub permite que la comunidad colabore de forma transparente a 
+través de una planificación del calendario editorial rigurosa. Los desarrolladores integran 
+sus propuestas desde su rama personal hacia la rama main usando git pull origin main para asegurar 
+actualizaciones limpias mediante un flujo fast-forward. Al consumir una API, el mini-sitio 
+implementa funciones async y await con fetch para extraer datos en tiempo real procesados en 
+formato JSON. Este ecosistema técnico garantiza una estricta revisión de fuentes antes de mostrar 
+la información al público, facilitando una moderación editorial básica automatizada. De este modo, 
+la tecnología impulsa la difusión responsable, la participación ciudadana y la creación de narrativas 
+basadas en un lenguaje responsable y no estigmatizante que fortalece la cultura de paz.
