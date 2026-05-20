@@ -1,8 +1,8 @@
 Checklist de API propia – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,58 +10,58 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El frontend consulta información del backend?
 
-Respuesta:
+Respuesta: SÍ. El frontend utiliza funciones asíncronas (fetch) para enviar peticiones HTTP al backend, solicitando los datos que necesita mostrar en la interfaz en lugar de tenerlos guardados de forma local en el navegador.
 
 2. Consumo de la API propia
 
 ¿La página usa rutas del mismo proyecto?
 
-Respuesta:
+Respuesta: SÍ. El proyecto está unificado; la interfaz del frontend realiza consultas a los endpoints o rutas (como /api/...) que fueron programados y expuestos dentro del mismo servidor del backend del proyecto.
 
 3. Mensajes dinámicos
 
 ¿Los mensajes aparecen desde datos consultados y no solo desde HTML fijo?
 
-Respuesta:
+Respuesta: SÍ. El archivo HTML solo contiene la estructura o contenedor vacío (la "vitrina"), mientras que el texto, las categorías y las audiencias de los mensajes se inyectan en tiempo real tras leer el archivo JSON del servidor.
 
 4. Ruta GET /api/mensajes
 
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta: SÍ. Esta ruta procesa la solicitud del cliente de manera exitosa y devuelve el arreglo completo de los avisos comunitarios (como "Sueños en Ruta") con un código de estado HTTP 200 (OK).
 
 5. Ruta GET /api/calendario
 
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta: SÍ. Responde de forma correcta entregando el listado estructurado de las próximas fechas, eventos o actividades comunitarias programadas que alimentan la sección de agenda del proyecto.
 
 6. Ruta GET /api/resumen
 
 ¿La ruta responde correctamente?
 
-Respuesta:
+Respuesta: SÍ. Es un endpoint operativo que procesa y retorna cifras clave, métricas o estadísticas rápidas del tablero para ofrecer una vista consolidada e informativa al usuario.
 
 7. Respuesta JSON
 
 ¿Las rutas entregan datos estructurados?
 
-Respuesta:
+Respuesta: SÍ. El backend responde utilizando el formato estandarizado JSON (application/json), organizando la información en llaves y valores (como "categoria": "cultura-de-paz"), lo que facilita su lectura inmediata en JavaScript.
 
 8. Render dinámico
 
 ¿El tablero muestra datos recibidos desde la API?
 
-Respuesta:
+Respuesta: SÍ. JavaScript procesa la respuesta del servidor y utiliza métodos de manipulación del DOM (como appendChild o propiedades como textContent) para pintar visualmente cada tarjeta de mensaje dentro del contenedor del tablero.
 
 9. Diagnóstico básico
 
 ¿Sabes qué revisar si no carga la información?
 
-Respuesta:
+Respuesta: SÍ. Se debe presionar F12 en el navegador para inspeccionar la consola (en busca de errores de código o bloqueos CORS) y la pestaña Network (Red) para verificar si las rutas de la API devuelven un error de servidor (como el código 404 o 500).
 
 10. Comunicación responsable
 
 ¿Los datos dinámicos mantienen claridad, fuente y lenguaje adecuado?
 
-Respuesta:
+Respuesta: SÍ. Al pasar por un proceso en el que cada objeto del JSON incluye obligatoriamente campos como "Fuente", "Tono" y "Revisión editorial: aprobada", el sistema garantiza que no se publique información anónima, estigmatizante o alarmista.

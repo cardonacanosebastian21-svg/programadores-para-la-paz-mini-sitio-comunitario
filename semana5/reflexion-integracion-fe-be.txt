@@ -29,3 +29,11 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+La integración Frontend-Backend transforma un mini-sitio estático en una herramienta viva mediante
+ el consumo de la API propia, permitiendo que los datos viajen centralizados desde el servidor. 
+ Al utilizar la función fetch acompañada de async y await, el navegador solicita información 
+ estructurada en formato JSON en segundo plano sin interrumpir la navegación del usuario. Esta 
+ arquitectura hace posible un render dinámico que actualiza la pantalla al instante. Así, se 
+ garantiza una comunicación responsable y con rigor informativo, ya que todo el contenido pasa 
+ primero por un proceso automatizado de moderación editorial básica antes de ser visualizado por 
+ los vecinos.

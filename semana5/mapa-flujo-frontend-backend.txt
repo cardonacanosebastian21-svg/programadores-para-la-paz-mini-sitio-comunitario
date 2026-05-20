@@ -1,8 +1,8 @@
 Mapa del flujo Frontend-Backend – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Completa el flujo con tus palabras.
 
@@ -10,58 +10,58 @@ Completa el flujo con tus palabras.
 
 ¿Qué parte del proyecto corresponde al frontend?
 
-Respuesta:
+Respuesta:  Corresponde a la interfaz visual e interactiva que ve el usuario en el navegador, típicamente construida con archivos HTML, CSS y JavaScript, encargada de capturar las acciones del usuario y pintar los datos en la pantalla.
 
 2. Backend
 
 ¿Qué parte del proyecto corresponde al backend?
 
-Respuesta:
+Respuesta: Corresponde a la lógica de servidor (usualmente programada en Node.js, Python, etc.) que se ejecuta detrás de escena, encargada de procesar las peticiones, gestionar los datos, aplicar reglas de negocio y enviar las respuestas requeridas por el frontend.
 
 3. API propia
 
 ¿Qué rutas expone la API propia del proyecto?
 
-Respuesta:
+Respuesta: Expone los puntos de acceso URL o endpoints creados internamente (por ejemplo: /api/usuarios, /api/tablero, /api/reportes) que determinan qué datos específicos puede solicitar el frontend mediante métodos HTTP (GET, POST, etc.).
 
 4. Datos
 
 ¿Qué archivos JSON usa el backend para responder?
 
-Respuesta:
+Respuesta:Usa archivos de texto plano con extensión .json (como datos.json, comunidad.json o config.json) que actúan como una base de datos local ligera para almacenar y estructurar la información en formato de objetos y arreglos.
 
 5. Consulta desde frontend
 
 ¿Qué función de JavaScript se usa para consultar la API?
 
-Respuesta:
+Respuesta:  Se utiliza la función nativa fetch() (o librerías externas como Axios), la cual realiza peticiones HTTP asíncronas desde el navegador hacia el servidor para obtener los datos de la API.
 
 6. Espera de respuesta
 
 ¿Qué palabras se usan para esperar la respuesta del servidor?
 
-Respuesta:
+Respuesta:  Se utilizan las palabras clave async (para declarar que una función es asíncrona) y await (para pausar la ejecución del código hasta que la promesa del servidor se resuelva).
 
 7. Conversión de respuesta
 
 ¿Qué hace respuesta.json()?
 
-Respuesta:
+Respuesta: Toma el flujo de datos crudos (binarios/texto) recibido del servidor y lo transforma (parsea) en un objeto o arreglo de JavaScript manipulable por el código del frontend.
 
 8. Render dinámico
 
 ¿Qué significa mostrar datos dinámicamente en el tablero?
 
-Respuesta:
+Respuesta: Significa generar y actualizar los elementos visuales de la pantalla en tiempo real utilizando JavaScript (con métodos como appendChild o innerHTML), sin necesidad de recargar la página completa cada vez que los datos cambian.
 
 9. Prueba
 
 ¿Cómo verificaste que la información del tablero coincide con la API?
 
-Respuesta:
+Respuesta:  Se verifica abriendo la pestaña "Network" (Red) en las herramientas de desarrollador (F12) del navegador, comparando el objeto JSON exacto que devuelve la API con los textos y números que se terminan renderizando visualmente en las tarjetas del tablero.
 
 10. Propósito comunitario
 
 ¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
 
-Respuesta:
+Respuesta: Al separar los datos (JSON) de la interfaz (Frontend), cualquier cambio centralizado en el servidor se refleja inmediatamente a todos los usuarios, permitiendo que reportes, alertas o información vecinal se mantengan centralizados, verídicos y vigentes al instante.

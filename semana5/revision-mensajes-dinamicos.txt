@@ -1,51 +1,51 @@
 Revisión editorial de mensajes dinámicos – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Selecciona un mensaje que aparezca en el tablero y responde.
 
 1. Título del mensaje seleccionado:
 
-Respuesta:
+Respuesta: Sueños en Ruta: Tu brújula sociovocacional ahora es digital.
 
 2. ¿El mensaje se cargó dinámicamente desde la API?
 
-Respuesta:
+Respuesta: Sí, el texto se extrae dinámicamente desde los archivos JSON del backend mediante una consulta asíncrona realizada por el frontend.
 
 3. ¿El mensaje tiene propósito comunitario?
 
-Respuesta:
+Respuesta: Sí, busca impulsar el desarrollo integral y el arraigo productivo de la comunidad al conectar el talento local con oportunidades formativas y laborales.
 
 4. ¿El mensaje tiene audiencia clara?
 
-Respuesta:
+Respuesta: Sí, su audiencia objetiva está definida explícitamente para jóvenes rurales y urbanos.
 
 5. ¿El tono es adecuado?
 
-Respuesta:
+Respuesta: Sí, maneja un tono inspirador, disruptivo y aspiracional, ideal para motivar a la juventud a diseñar su proyecto de vida.
 
 6. ¿El llamado a la acción es comprensible?
 
-Respuesta:
+Respuesta: í, es directo y claro: "Regístrate en nuestro nuevo sitio web y empieza a trazar tu ruta hoy mismo."
 
 7. ¿El mensaje tiene fuente o criterio de verificación?
 
-Respuesta:
+Respuesta: Sí, proviene de una fuente oficial e interna: Dirección de Transformación Digital y Marca.
 
 8. ¿Mantiene consistencia comunicativa con los demás mensajes?
 
-Respuesta:
+Respuesta: Sí, al igual que los otros avisos, cuenta con categorías claras, segmentación de audiencia y una estructura ordenada orientada al beneficio social.
 
 9. ¿Requiere moderación editorial básica antes de publicarse?
 
-Respuesta:
+Respuesta: No, el estado del mensaje indica explícitamente: Revisión editorial: aprobada, por lo que ya pasó por los filtros correspondientes.
 
 10. ¿Usa lenguaje responsable y no estigmatizante?
 
-Respuesta:
+Respuesta: Sí, dignifica la vida en el entorno rural al plantear el campo como una decisión de éxito y un punto de partida dinámico, en lugar de un espacio limitado.
 
 11. Escribe una mejora editorial para el mensaje:
 
-Respuesta:
+Respuesta: "¡El campo es tu punto de partida hacia el éxito! 'Sueños en Ruta', el juego de orientación sociovocacional del territorio, se transforma en plataforma web. Diseña tu proyecto de vida, supera las distancias y conecta tu talento con el mundo. Regístrate en nuestro sitio web hoy mismo y traza tu ruta digital."
