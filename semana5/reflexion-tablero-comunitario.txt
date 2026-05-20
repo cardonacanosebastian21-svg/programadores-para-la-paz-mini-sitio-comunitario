@@ -1,8 +1,8 @@
 Reflexión sobre tablero comunitario – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -25,3 +25,11 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+Un tablero de mensajes estructurado como una vitrina comunitaria transparente es indispensable para 
+procesar contenidos mediante una rigurosa curaduría de información. Al integrar pautas de 
+accesibilidad mínima y una correcta jerarquía visual, la interfaz garantiza una seguridad visual que 
+resguarda la tranquilidad colectiva e implementa la minimización de datos visibles para blindar la 
+privacidad. Asimismo, difundir recados utilizando un lenguaje claro, empático y no estigmatizante 
+previene la desinformación. Este ecosistema transparente afianza de manera directa la confianza 
+comunitaria, impulsando la participación ciudadana constructiva para la cimentación de una sólida 
+cultura de paz.

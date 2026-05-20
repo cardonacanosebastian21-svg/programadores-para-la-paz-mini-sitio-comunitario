@@ -1,8 +1,8 @@
 Checklist de accesibilidad y seguridad visual – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,58 +10,58 @@ Marca SÍ o NO y explica brevemente.
 
 ¿La interfaz funciona como vitrina comunitaria clara?
 
-Respuesta:
+Respuesta: SÍ. Actúa como un espacio centralizado y transparente donde los habitantes ven reflejadas las propuestas colectivas de forma ordenada y democrática.
 
 2. Accesibilidad mínima
 
 ¿Los títulos son comprensibles y las secciones están separadas?
 
-Respuesta:
+Respuesta: SÍ. La interfaz utiliza divisiones claras entre las semanas 1 y 2, empleando encabezados temáticos que orientan al usuario en la navegación.
 
 3. Legibilidad
 
 ¿Los textos se pueden leer con facilidad?
 
-Respuesta:
+Respuesta: SÍ. Se emplean tipografías limpias y tamaños tipográficos adecuados que permiten una lectura fluida para personas de cualquier edad en la comunidad.
 
 4. Contraste suficiente
 
 ¿El texto se distingue del fondo?
 
-Respuesta:
+Respuesta: SÍ. Los mensajes preventivos e informativos destacan nítidamente sobre los fondos del sitio, evitando la fatiga visual y garantizando una lectura cómoda.
 
 5. Jerarquía visual
 
 ¿Se entiende qué información es principal y qué información es secundaria?
 
-Respuesta:
+Respuesta: SÍ. Los títulos de las piezas y los temas principales usan un peso visual mayor (negritas), mientras que los detalles técnicos quedan en un segundo plano.
 
 6. Lenguaje claro
 
 ¿Los mensajes son comprensibles para una comunidad general?
 
-Respuesta:
+Respuesta: SÍ. Se eliminaron los tecnicismos complejos para usar palabras directas y cotidianas que cualquier ciudadano del territorio puede comprender de inmediato.
 
 7. Organización visual coherente
 
 ¿Las tarjetas mantienen una estructura similar?
 
-Respuesta:
+Respuesta: SÍ. Cada publicación sigue un patrón idéntico (Tema, Canal, Mensaje y Llamado a la acción), lo que ayuda al usuario a predecir y entender la información.
 
 8. Seguridad visual
 
 ¿La vista pública evita saturación, confusión o exposición innecesaria?
 
-Respuesta:
+Respuesta: SÍ. El diseño respeta los espacios en blanco para no abrumar al lector y organiza el flujo cronológicamente por días (Lunes, Miércoles, Viernes).
 
 9. Minimización de datos visibles
 
 ¿La página muestra solo la información necesaria?
 
-Respuesta:
+Respuesta: SÍ. La interfaz oculta datos personales, identidades de los proponentes o variables técnicas internas de la API, mostrando únicamente el beneficio comunitario.
 
 10. Lenguaje responsable y no estigmatizante
 
 ¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
 
-Respuesta:
+Respuesta: SÍ. Al estar vinculada a un motor de moderación y reglas editoriales mínimas, la interfaz bloquea el contenido violento y solo visibiliza copys constructivos.

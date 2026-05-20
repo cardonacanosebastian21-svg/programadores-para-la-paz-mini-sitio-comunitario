@@ -1,8 +1,8 @@
 Pruebas del tablero de mensajes – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 19 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Prueba 1: Abrir mini-sitio
 
@@ -12,10 +12,10 @@ http://localhost:3000
 Resultado esperado:
 El mini-sitio abre correctamente y muestra estructura visual con estilos.
 
-Resultado observado:
+Resultado observado: El mini-sitio abre correctamente y muestra estructura visual con estilos.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí
 
 Prueba 2: Verificar hoja de estilos
 
@@ -25,10 +25,10 @@ public/styles.css
 Resultado esperado:
 La página muestra fondo, secciones, botones y tarjetas con estilos básicos.
 
-Resultado observado:
+Resultado observado: La página muestra fondo, secciones, botones y tarjetas con estilos básicos.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Sí
 
 Prueba 3: Cargar mensajes
 
@@ -38,10 +38,10 @@ Hacer clic en Cargar mensajes.
 Resultado esperado:
 Los mensajes aparecen como tarjetas legibles.
 
-Resultado observado:
+Resultado observado: Los mensajes aparecen como tarjetas legibles.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Prueba 4: Revisar datos visibles
 
@@ -55,9 +55,16 @@ llamado a la acción
 fuente
 
 Resultado observado:
+título
+mensaje
+categoría
+audiencia
+tono
+llamado a la acción
+fuente
 
 ¿Aparecen datos innecesarios?
-Respuesta:
+Respuesta: No
 
 Prueba 5: Cargar calendario
 
@@ -67,12 +74,12 @@ Hacer clic en Cargar calendario.
 Resultado esperado:
 El calendario aparece como tarjetas con información resumida.
 
-Resultado observado:
+Resultado observado: El calendario aparece como tarjetas con información resumida.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: Si
 
 Conclusión:
 ¿Qué mejora visual ayudó más a entender la información comunitaria?
 
-Respuesta:
+Respuesta: la agrupación de las propuestas por categorías generales en el mini-sitio.
